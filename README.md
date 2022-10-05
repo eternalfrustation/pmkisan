@@ -21,5 +21,5 @@ Yes
 
 ## Roadmap
 
- [  ] Implement a basic no css ui
- [  ] Implement basic registeration functionality in the server
+ - [ ] Implement a basic no css ui
+ - [ ] Implement basic registeration functionality in the server
